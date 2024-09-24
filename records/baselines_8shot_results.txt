@@ -1,0 +1,8 @@
+mode: knn_mean, gallery 8
+auc mean: 0.5643 , auc std: 0.0304 , f1 mean: 0.5705 , f1 std: 0.0265 , acc mean: 0.448 , acc std: 0.065
+mode: knn_max, gallery 8
+auc mean: 0.5409 , auc std: 0.1085 , f1 mean: 0.5597 , f1 std: 0.0145 , acc mean: 0.4576 , acc std: 0.0643
+mode: prototype, gallery 8
+auc mean: 0.5892 , auc std: 0.0188 , f1 mean: 0.552 , f1 std: 0.0136 , acc mean: 0.3852 , acc std: 0.0108
+mode: prototype_simple_shot, gallery 8
+auc mean: 0.6964 , auc std: 0.0135 , f1 mean: 0.598 , f1 std: 0.0253 , acc mean: 0.5983 , acc std: 0.0266
