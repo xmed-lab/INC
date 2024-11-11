@@ -1,0 +1,8 @@
+start feature processing ...
+finish feature processing and saving!
+ val auc: 0.9531 , test auc: 0.9901 , val f1:  0.9024 , test f1:  0.9375 , test acc:  0.9535 , test auc with ci: (0.9901, (0.9785, 1.0))
+ val auc: 0.9954 , test auc: 0.9834 , val f1:  0.9677 , test f1:  0.9263 , test acc:  0.9457 , test auc with ci: (0.9834, (0.9665, 1.0))
+ val auc: 0.9472 , test auc: 0.9867 , val f1:  0.9275 , test f1:  0.9375 , test acc:  0.9535 , test auc with ci: (0.9867, (0.9721, 1.0))
+ val auc: 0.9441 , test auc: 0.9885 , val f1:  0.9067 , test f1:  0.9388 , test acc:  0.9535 , test auc with ci: (0.9885, (0.9748, 1.0))
+ val auc: 0.9717 , test auc: 0.9867 , val f1:  0.9663 , test f1:  0.9474 , test acc:  0.9612 , test auc with ci: (0.9867, (0.9705, 1.0))
+auc mean: 0.9871 , auc std: 0.0022 , f1 mean: 0.9375 , f1 std: 0.0067 , acc mean: 0.9535 , acc std: 0.0049

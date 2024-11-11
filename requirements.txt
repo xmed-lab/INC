@@ -1,0 +1,23 @@
+# for deep learning
+torch
+torchmetrics
+torchvision
+collections
+
+# for image loading
+openslide
+pillow
+opencv-python
+
+# for camelyon16-c
+visdom
+wandb
+wand
+scipy
+skimage
+difflib
+
+# for eval
+torchmetrics
+sklearn
+rpy2
